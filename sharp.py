@@ -345,7 +345,7 @@ def main():
     application.run_polling()
 
 # Bot token and user/channel details
-BOT_TOKEN = '7886119395:AAFyeNTNe1qkjGiZs4oj_Y7oBV3Vu8lQIGg'
+BOT_TOKEN = '7778634672:AAGQLXcsRj7UFFkXClnwENE0HlwhrQnoSEk'
 CHANNEL_USERNAME = 'INFLICT_DDOS'
 ADMIN_IDS = ['7263607387']  # Admin user IDs
 
